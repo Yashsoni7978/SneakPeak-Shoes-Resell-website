@@ -1,7 +1,7 @@
-# Ecommerce Website With HTML CSS JavaScript
+# SneakPeak- A shoe reseller website
 
 
-<h3 align="center"><b>E-commerce Website</b></h3>
+<h3 align="center"><b>SneakPeak</b></h3>
 
 
 ## About this project 🚀
